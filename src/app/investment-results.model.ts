@@ -5,4 +5,5 @@ export interface InvestmentResults{
     annualInvestment: number,
     totalInterest: number,
     totalAmountInvested: number,
+    valueAfterTax: number
   }[];
